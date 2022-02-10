@@ -1,1 +1,1 @@
-# LGM-VIP-Internship
+# LGMVIP-DataScience
